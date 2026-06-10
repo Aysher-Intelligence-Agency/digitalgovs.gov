@@ -39,9 +39,9 @@
   },
   "license": "",
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.689.0",
+    "@aws-sdk/client-s3": "^3.1065.0",
     "@evolvingriley/file-upload": "0.1.6",
-    "@prantlf/jsonlint": "^14.0.3",
+    "@prantlf/jsonlint": "^17.0.1",
     "@uswds/uswds": "^3.9.0",
     "autoprefixer": "^10.4.16",
     "concurrently": "^9.1.0",
@@ -59,10 +59,10 @@
     "mime-types": "^2.1.35",
     "postcss-csso": "^6.0.1",
     "s3fs": "^2.5.0",
-    "sass": "^1.69.7",
-    "sass-embedded": "^1.69.7",
+    "sass": "^1.100.0",
+    "sass-embedded": "^1.100.0",
     "sharp": "^0.33.5",
-    "terser-webpack-plugin": "^5.3.10",
+    "terser-webpack-plugin": "^5.6.1",
     "webpack-stream": "^7.0.0"
   },
   "devDependencies": {
@@ -82,7 +82,7 @@
     "husky": "^8.0.3",
     "image-size": "^1.1.1",
     "markdownlint-cli": "^0.33.0",
-    "postcss": "^8.4.38",
+    "postcss": "^8.5.15",
     "prettier": "^2.8.8",
     "prettier-plugin-go-template": "^0.0.13",
     "stylelint": "^15.11.0",
@@ -101,7 +101,7 @@
     "aws-sdk": {
       "xml2js": "^0.5.0",
       "xmlbuilder": "^15.1.0",
-      "lodash": "^4.17.21"
+      "lodash": "^4.18.1"
     },
     "s3fs": {
       "aws-sdk": "2.1365.0"
